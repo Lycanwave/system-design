@@ -122,5 +122,5 @@ int main(){
 
     open->printStatus(cardId);
     
-    return 0;
+    return 0 ;
 }
