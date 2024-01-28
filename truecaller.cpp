@@ -115,7 +115,7 @@ public:
 	virtual vector<User> search(string name) = 0;
 };
 
-//SEARCHING TYPES EXTENDABLE
+//SEARCHING TYPES EXTENDIBLE
 
 class SearchUsingName : public SearchUser{
 
